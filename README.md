@@ -72,5 +72,5 @@ The project can support used-car pricing, inventory segmentation, resale-value a
 
 ## Author
 
-**Your Name**
+Shaik Reshma
 Data Analytics Intern
